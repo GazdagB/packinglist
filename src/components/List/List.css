@@ -1,0 +1,22 @@
+.List{
+    background-color: #5a3e2b;
+    color: #ffebb3;
+    padding: 4rem 0;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    
+    
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,16 @@
+
+li{
+    color: #ffebb3;
+    font-size: 1.5rem !important;
+}
+
+li input{
+    cursor: pointer;
+    margin-right: 10px;
+    height: 25px ;
+    width: 25px;
+}
+
+.packed{
+    text-decoration: line-through;
+}

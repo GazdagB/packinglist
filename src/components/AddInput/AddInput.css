@@ -1,0 +1,31 @@
+.AddInput{
+    height: 100px;
+    background-color: darkorange;
+}
+
+.form-select,.input-text,button{
+    background-color: #ffebb3;
+    color: var(--main-bg-color);
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10rem;
+    
+}
+
+
+
+
+
+form button{
+    text-transform: uppercase;
+    background-color: #76c7ad;
+    border-radius: 10rem;
+}
+
+p{
+    padding: 0;
+    margin: 0;
+}
